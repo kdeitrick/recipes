@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.26)  12 NOV 2020 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.26)  12 NOV 2020 16:33
 entering extended mode
 **./00_MainFile.tex
 (00_MainFile.tex
@@ -712,7 +712,19 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 53.
 LaTeX Warning: Unused global option(s):
     [letter].
 
-No file 00_MainFile.aux.
+(00_MainFile.aux (Latex/BananaBreadBalls.aux) (Latex/BlueberryMuffins.aux) (Latex/ChocPBOvernightOats.aux)
+(Latex/CornbreadQuiche.aux) (Latex/CreamyTomatoGarlicButterShrimp.aux) (Latex/ItalianMeatSauce.aux)
+(Latex/MarinaraSauce.aux) (Latex/PenneRosa.aux) (Latex/TuscanFresca.aux) (Latex/FrenchOnionSoup.aux)
+(Latex/HachisParmentier.aux) (Latex/SweetChiliSalmon.aux) (Latex/ThaiRedCurry.aux) (Latex/ButterChicken.aux)
+(Latex/WontonSoup.aux) (Latex/DumplingSauce.aux) (Latex/BeefStew.aux) (Latex/BisonBurger.aux)
+(Latex/ChickenBrocBraid.aux) (Latex/DadsLasagna.aux) (Latex/RoastBeef.aux) (Latex/TacoLasagne.aux)
+(Latex/TreebeardsEtouffee.aux) (Latex/TreebeardsShrimp.aux) (Latex/TreebeardsShrimpBase.aux) (Latex/CoconutRice.aux)
+(Latex/ParsnipPotatoes.aux) (Latex/Stuffing.aux) (Latex/SweetPotatoeCasserole.aux) (Latex/FeedingStarter.aux)
+(Latex/Levain.aux) (Latex/CinnamonRaisinSourdough.aux) (Latex/DoubleChocolateBananaBread.aux) (Latex/FarmBread.aux)
+(Latex/RedPepperAioli.aux) (Latex/AppleCrisp.aux) (Latex/ChocChipCookies.aux) (Latex/CutoutCookies.aux)
+(Latex/PeanutButterChocKisses.aux) (Latex/PeanutButterCookies.aux) (Latex/SmoresHersheyKiss.aux)
+(Latex/SpritzCookies.aux) (Latex/Tiramisu.aux) (Latex/SriLankanTea.aux) (Latex/MochaFrappuccino.aux)
+(Latex/PBCupSmoothie.aux) (Latex/Sangria.aux) (Latex/ThaiTea.aux))
 \openout1 = `00_MainFile.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
@@ -732,10 +744,9 @@ LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57.
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-(C:\Users\kirst\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+) (C:\Users\kirst\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count296
 \scratchdimen=\dimen288
@@ -769,25 +780,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 57.
 LaTeX Info: Redefining \pageref on input line 57.
 LaTeX Info: Redefining \nameref on input line 57.
+ (00_MainFile.out)
+(00_MainFile.out)
 \@outlinefile=\write4
 \openout4 = `00_MainFile.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 62.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 62.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 62.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 62.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -796,17 +809,19 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 62.
+ (00_MainFile.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+ [1
+
+{C:/Users/kirst/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2])
 \tf@toc=\write5
 \openout5 = `00_MainFile.toc'.
 
- [1
-
-{C:/Users/kirst/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+ [3]
 \openout2 = `Latex/BananaBreadBalls.aux'.
 
  (Latex/BananaBreadBalls.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 42.
 LaTeX Font Info:    Trying to load font information for T1+fjd on input line 42.
 
 (C:\Users\kirst\AppData\Roaming\MiKTeX\2.9\tex/latex/emerald\t1fjd.fd
@@ -1093,7 +1108,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 42.} 
-) [2
+) [4
 
 ]
 \openout2 = `Latex/BlueberryMuffins.aux'.
@@ -1598,7 +1613,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [3
+) [5
 
 
 ]
@@ -1740,7 +1755,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 44.} 
-) [4
+) [6
 
 
 ]
@@ -2017,10 +2032,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 45.} 
-) [5
+) [7
 
 
-] [6
+] [8
 
 ]
 \openout2 = `Latex/CreamyTomatoGarlicButterShrimp.aux'.
@@ -2300,7 +2315,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 50.} 
-) [7
+) [9
 
 ]
 \openout2 = `Latex/ItalianMeatSauce.aux'.
@@ -2396,7 +2411,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 39.} 
-) [8
+) [10
 
 
 ]
@@ -2493,7 +2508,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 31.} 
-) [9
+) [11
 
 
 ]
@@ -2815,7 +2830,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 44.} 
-) [10
+) [12
 
 
 ]
@@ -3065,10 +3080,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 42.} 
-) [11
+) [13
 
 
-] [12
+] [14
 
 ]
 \openout2 = `Latex/FrenchOnionSoup.aux'.
@@ -3479,7 +3494,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 62.} 
-) [13
+) [15
 
 ]
 \openout2 = `Latex/HachisParmentier.aux'.
@@ -3980,7 +3995,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 61.} 
-[14
+[16
 
 
 ]
@@ -4074,7 +4089,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 13) loversize=0.15;
 (lettrine.sty)             reported on input line 61.} 
-) [15] [16
+) [17] [18
 
 ]
 \openout2 = `Latex/SweetChiliSalmon.aux'.
@@ -4395,7 +4410,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [17
+) [19
 
 ]
 \openout2 = `Latex/ThaiRedCurry.aux'.
@@ -4626,7 +4641,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [18
+) [20
 
 
 ]
@@ -4993,7 +5008,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 61.} 
-[19
+[21
 
 
 ])
@@ -5180,7 +5195,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 4) loversize=0.15;
 (lettrine.sty)             reported on input line 49.} 
-) [20
+) [22
 
 
 ]
@@ -5277,10 +5292,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 33.} 
-) [21
+) [23
 
 
-] [22
+] [24
 
 ]
 \openout2 = `Latex/BeefStew.aux'.
@@ -5421,7 +5436,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [23
+) [25
 
 ]
 \openout2 = `Latex/BisonBurger.aux'.
@@ -5517,7 +5532,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 60.} 
-) [24
+) [26
 
 
 ]
@@ -5749,7 +5764,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [25
+) [27
 
 
 ]
@@ -6071,7 +6086,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [26
+) [28
 
 
 ]
@@ -6303,7 +6318,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 37.} 
-) [27
+) [29
 
 
 ]
@@ -6670,7 +6685,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 47.} 
-) [28
+) [30
 
 
 ]
@@ -7037,7 +7052,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 63.} 
-) [29
+) [31
 
 
 ]
@@ -7179,7 +7194,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 33.} 
-) [30
+) [32
 
 
 ]
@@ -7411,10 +7426,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 34.} 
-) [31
+) [33
 
 
-] [32
+] [34
 
 ]
 \openout2 = `Latex/CoconutRice.aux'.
@@ -7510,7 +7525,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 29.} 
-) [33
+) [35
 
 ]
 \openout2 = `Latex/ParsnipPotatoes.aux'.
@@ -7921,7 +7936,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 51.} 
-) [34
+) [36
 
 
 ]
@@ -8018,7 +8033,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 51.} 
-) [35
+) [37
 
 
 ]
@@ -8250,10 +8265,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [36
+) [38
 
 
-] [37
+] [39
 
 ]
 \openout2 = `Latex/FeedingStarter.aux'.
@@ -8394,7 +8409,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 32.} 
-) [38
+) [40
 
 ]
 \openout2 = `Latex/Levain.aux'.
@@ -8490,7 +8505,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 26.} 
-) [39
+) [41
 
 
 ]
@@ -8996,7 +9011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 48.} 
-) [40
+) [42
 
 
 ]
@@ -9318,7 +9333,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [41
+) [43
 
 
 ]
@@ -9865,10 +9880,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 12) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-[42
+[44
 
 
-]) [43] [44
+]) [45] [46
 
 ]
 \openout2 = `Latex/RedPepperAioli.aux'.
@@ -9964,9 +9979,9 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 30.} 
-) [45
+) [47
 
-] [46
+] [48
 
 ]
 \openout2 = `Latex/AppleCrisp.aux'.
@@ -10107,7 +10122,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [47
+) [49
 
 ]
 \openout2 = `Latex/ChocChipCookies.aux'.
@@ -10518,7 +10533,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 57.} 
-) [48
+) [50
 
 
 ]
@@ -10705,7 +10720,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 4) loversize=0.15;
 (lettrine.sty)             reported on input line 36.} 
-) [49
+) [51
 
 
 ]
@@ -10937,7 +10952,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 43.} 
-) [50
+) [52
 
 
 ]
@@ -11259,7 +11274,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [51
+) [53
 
 
 ]
@@ -11716,10 +11731,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 10) loversize=0.15;
 (lettrine.sty)             reported on input line 62.} 
-[52
+[54
 
 
-]) [53]
+]) [55]
 \openout2 = `Latex/SpritzCookies.aux'.
 
  (Latex/SpritzCookies.tex
@@ -11903,7 +11918,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 4) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [54
+) [56
 
 
 ]
@@ -12405,10 +12420,10 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 64.} 
-[55
+[57
 
 
-]) [56] [57
+]) [58] [59
 
 ]
 \openout2 = `Latex/SriLankanTea.aux'.
@@ -12549,7 +12564,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 35.} 
-) [58
+) [60
 
 ]
 \openout2 = `Latex/MochaFrappuccino.aux'.
@@ -12690,7 +12705,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 34.} 
-) [59
+) [61
 
 
 ]
@@ -12787,7 +12802,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [60
+) [62
 
 
 ]
@@ -12884,7 +12899,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 36.} 
-) [61
+) [63
 
 
 ]
@@ -13116,7 +13131,7 @@ See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignor
 (lettrine.sty)             Type  I <command> <return>  to replace it with another command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgroup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [62
+) [64
 
 
 ]
@@ -13137,22 +13152,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
 (Latex/PBCupSmoothie.aux) (Latex/Sangria.aux) (Latex/ThaiTea.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
-
-
-Package rerunfilecheck Warning: File `00_MainFile.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `00_MainFile.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  1DF7A95A9E10B6137D872BC432A7278C;3575.
+Package rerunfilecheck Info: File `00_MainFile.out' has not changed.
+(rerunfilecheck)             Checksum: 1DF7A95A9E10B6137D872BC432A7278C;3575.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
- 19810 strings out of 481191
- 384719 string characters out of 2912654
- 642129 words of memory out of 3000000
- 34565 multiletter control sequences out of 15000+200000
+ 20023 strings out of 481191
+ 391094 string characters out of 2912654
+ 663640 words of memory out of 3000000
+ 34672 multiletter control sequences out of 15000+200000
  665997 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,21n,76p,421b,765s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -13168,9 +13176,9 @@ fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 .9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/lm/lmri7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 00_MainFile.pdf (62 pages, 395990 bytes).
+Output written on 00_MainFile.pdf (64 pages, 424719 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 122 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 671 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 477 words of extra memory for PDF output out of 10000 (max. 10000000)
 
