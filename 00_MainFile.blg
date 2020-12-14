@@ -15,6 +15,8 @@ Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/ItalianMeatSauce.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: Latex/MarinaraSauce.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Latex/PenneAllaVodka.aux
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Latex/PenneRosa.aux
 Reallocating 'name_of_file' (item size: 1) to 23 items.
@@ -55,6 +57,8 @@ Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: Latex/CoconutRice.aux
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Latex/ParsnipPotatoes.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Latex/RoastedBroccoli.aux
 Reallocating 'name_of_file' (item size: 1) to 19 items.
 A level-1 auxiliary file: Latex/Stuffing.aux
 Reallocating 'name_of_file' (item size: 1) to 32 items.
@@ -63,6 +67,8 @@ Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: Latex/FeedingStarter.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: Latex/Levain.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: Latex/SanFranSourdough.aux
 Reallocating 'name_of_file' (item size: 1) to 34 items.
 A level-1 auxiliary file: Latex/CinnamonRaisinSourdough.aux
 Reallocating 'name_of_file' (item size: 1) to 37 items.
@@ -89,6 +95,8 @@ Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: Latex/SpritzCookies.aux
 Reallocating 'name_of_file' (item size: 1) to 19 items.
 A level-1 auxiliary file: Latex/Tiramisu.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: Latex/BourbonManhattan.aux
 Reallocating 'name_of_file' (item size: 1) to 23 items.
 A level-1 auxiliary file: Latex/SriLankanTea.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
@@ -99,12 +107,14 @@ Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Latex/Sangria.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Latex/ThaiTea.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Latex/TiramisuMartini.aux
 I found no \citation commands---while reading file 00_MainFile.aux
 I found no \bibdata command---while reading file 00_MainFile.aux
 I found no \bibstyle command---while reading file 00_MainFile.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            132 strings with 1682 characters,
+            137 strings with 1808 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
