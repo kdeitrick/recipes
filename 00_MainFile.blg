@@ -9,6 +9,8 @@ Reallocating 'name_of_file' (item size: 1) to 30 items.
 A level-1 auxiliary file: Latex/ChocPBOvernightOats.aux
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Latex/CornbreadQuiche.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Latex/RefrigeratorRolls.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: Latex/TexasKolaches.aux
 Reallocating 'name_of_file' (item size: 1) to 41 items.
@@ -49,6 +51,8 @@ Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Latex/RoastBeef.aux
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Latex/SalsaRice.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Latex/PulledPork.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: Latex/TacoLasagne.aux
 Reallocating 'name_of_file' (item size: 1) to 29 items.
@@ -57,6 +61,8 @@ Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/TreebeardsShrimp.aux
 Reallocating 'name_of_file' (item size: 1) to 31 items.
 A level-1 auxiliary file: Latex/TreebeardsShrimpBase.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Latex/BreadButterPickles.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: Latex/CoconutRice.aux
 Reallocating 'name_of_file' (item size: 1) to 26 items.
@@ -99,6 +105,10 @@ Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Latex/ChocChipCookies.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: Latex/CutoutCookies.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Latex/HuckleberryBuckle.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Latex/KALavaCakes.aux
 Reallocating 'name_of_file' (item size: 1) to 33 items.
 A level-1 auxiliary file: Latex/PeanutButterChocKisses.aux
 Reallocating 'name_of_file' (item size: 1) to 30 items.
@@ -111,6 +121,8 @@ Reallocating 'name_of_file' (item size: 1) to 19 items.
 A level-1 auxiliary file: Latex/Tiramisu.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/BourbonManhattan.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Latex/IcedGreenTea.aux
 Reallocating 'name_of_file' (item size: 1) to 23 items.
 A level-1 auxiliary file: Latex/SriLankanTea.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
@@ -128,7 +140,7 @@ I found no \bibdata command---while reading file 00_MainFile.aux
 I found no \bibstyle command---while reading file 00_MainFile.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            144 strings with 1976 characters,
+            150 strings with 2121 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
