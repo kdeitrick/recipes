@@ -91,6 +91,8 @@ Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Latex/FarmBread.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: Latex/GarlicNaan.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Latex/MomPumpkinBread.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/SourdoughWaffles.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
@@ -140,7 +142,7 @@ I found no \bibdata command---while reading file 00_MainFile.aux
 I found no \bibstyle command---while reading file 00_MainFile.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            150 strings with 2121 characters,
+            151 strings with 2146 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0

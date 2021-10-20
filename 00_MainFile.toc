@@ -51,28 +51,29 @@
 \contentsline {subsection}{\normalsize Double Chocolate Banana Bread}{54}{section*.44}%
 \contentsline {subsection}{\normalsize Farm Bread}{55}{section*.45}%
 \contentsline {subsection}{\normalsize Garlic Naan}{56}{section*.46}%
-\contentsline {subsection}{\normalsize Sourdough Waffles or Pancakes}{57}{section*.47}%
-\contentsline {section}{\numberline {8}Dressings and Sauces}{58}{section.8}%
-\contentsline {subsection}{\normalsize Caesar Pesto}{59}{section*.48}%
-\contentsline {subsection}{\normalsize Dumpling Sauce}{60}{section*.49}%
-\contentsline {subsection}{\normalsize Red Pepper Aioli}{61}{section*.50}%
-\contentsline {section}{\numberline {9}Desserts}{62}{section.9}%
-\contentsline {subsection}{\normalsize Apple Crisp}{63}{section*.51}%
-\contentsline {subsection}{\normalsize Chocolate Chip Cookies}{64}{section*.52}%
-\contentsline {subsection}{\normalsize All-Occasion Cutout Cookies}{65}{section*.53}%
-\contentsline {subsection}{\normalsize Huckleberry Buckle}{66}{section*.54}%
-\contentsline {subsection}{\normalsize King Arthur's Lava Cakes}{67}{section*.55}%
-\contentsline {subsection}{\normalsize Peanut Butter \& Chocolate Kisses}{68}{section*.56}%
-\contentsline {subsection}{\normalsize Peanut Butter Cookies}{69}{section*.57}%
-\contentsline {subsection}{\normalsize S'mores Hershey Kiss Cookies}{70}{section*.58}%
-\contentsline {subsection}{\normalsize Mrs.~Arnold's Spritz Cookies}{72}{section*.59}%
-\contentsline {subsection}{\normalsize Tiramisu}{73}{section*.60}%
-\contentsline {section}{\numberline {10}Beverages}{75}{section.10}%
-\contentsline {subsection}{\normalsize Bourbon Manhattan}{76}{section*.61}%
-\contentsline {subsection}{\normalsize Iced Green Jasmine Tea}{77}{section*.62}%
-\contentsline {subsection}{\normalsize Masala Chai}{78}{section*.63}%
-\contentsline {subsection}{\normalsize Mocha Frappuccino}{79}{section*.64}%
-\contentsline {subsection}{\normalsize Peanut Butter Cup Smoothie}{80}{section*.65}%
-\contentsline {subsection}{\normalsize Sangria}{81}{section*.66}%
-\contentsline {subsection}{\normalsize Thai Tea}{82}{section*.67}%
-\contentsline {subsection}{\normalsize Tiramisu Martini}{83}{section*.68}%
+\contentsline {subsection}{\normalsize Mom's Pumpkin Bread}{57}{section*.47}%
+\contentsline {subsection}{\normalsize Sourdough Waffles or Pancakes}{58}{section*.48}%
+\contentsline {section}{\numberline {8}Dressings and Sauces}{59}{section.8}%
+\contentsline {subsection}{\normalsize Caesar Pesto}{60}{section*.49}%
+\contentsline {subsection}{\normalsize Dumpling Sauce}{61}{section*.50}%
+\contentsline {subsection}{\normalsize Red Pepper Aioli}{62}{section*.51}%
+\contentsline {section}{\numberline {9}Desserts}{63}{section.9}%
+\contentsline {subsection}{\normalsize Apple Crisp}{64}{section*.52}%
+\contentsline {subsection}{\normalsize Chocolate Chip Cookies}{65}{section*.53}%
+\contentsline {subsection}{\normalsize All-Occasion Cutout Cookies}{66}{section*.54}%
+\contentsline {subsection}{\normalsize Huckleberry Buckle}{67}{section*.55}%
+\contentsline {subsection}{\normalsize King Arthur's Lava Cakes}{68}{section*.56}%
+\contentsline {subsection}{\normalsize Peanut Butter \& Chocolate Kisses}{69}{section*.57}%
+\contentsline {subsection}{\normalsize Peanut Butter Cookies}{70}{section*.58}%
+\contentsline {subsection}{\normalsize S'mores Hershey Kiss Cookies}{71}{section*.59}%
+\contentsline {subsection}{\normalsize Mrs.~Arnold's Spritz Cookies}{73}{section*.60}%
+\contentsline {subsection}{\normalsize Tiramisu}{74}{section*.61}%
+\contentsline {section}{\numberline {10}Beverages}{76}{section.10}%
+\contentsline {subsection}{\normalsize Bourbon Manhattan}{77}{section*.62}%
+\contentsline {subsection}{\normalsize Iced Green Jasmine Tea}{78}{section*.63}%
+\contentsline {subsection}{\normalsize Masala Chai}{79}{section*.64}%
+\contentsline {subsection}{\normalsize Mocha Frappuccino}{80}{section*.65}%
+\contentsline {subsection}{\normalsize Peanut Butter Cup Smoothie}{81}{section*.66}%
+\contentsline {subsection}{\normalsize Sangria}{82}{section*.67}%
+\contentsline {subsection}{\normalsize Thai Tea}{83}{section*.68}%
+\contentsline {subsection}{\normalsize Tiramisu Martini}{84}{section*.69}%
