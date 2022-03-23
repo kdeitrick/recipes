@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.19)  1 JAN 2022 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.19)  23 MAR 2022 14:42
 entering extended mode
 **./00_MainFile.tex
 (00_MainFile.tex
@@ -737,19 +737,20 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (00_MainFile.aux
 (Latex/BananaBreadBalls.aux) (Latex/BlueberryMuffins.aux)
-(Latex/ChocPBOvernightOats.aux) (Latex/CornbreadQuiche.aux)
+(Latex/ChocPBOvernightOats.aux) (Latex/MochaOvernightOats.aux)
+(Latex/PumpkinOvernightOats.aux) (Latex/CornbreadQuiche.aux)
 (Latex/RefrigeratorRolls.aux) (Latex/TexasKolaches.aux)
 (Latex/CreamyTomatoGarlicButterShrimp.aux) (Latex/ItalianMeatSauce.aux)
 (Latex/MarinaraSauce.aux) (Latex/PenneAllaVodka.aux) (Latex/PenneRosa.aux)
 (Latex/TuscanFresca.aux) (Latex/FrenchOnionSoup.aux)
-(Latex/HachisParmentier.aux) (Latex/SweetChiliSalmon.aux)
-(Latex/DoubledThaiRedCurry.aux) (Latex/ButterChicken.aux) (Latex/WontonSoup.aux
-) (Latex/BeefStew.aux) (Latex/BisonBurger.aux) (Latex/ChickenBurger.aux)
-(Latex/ChickenBrocBraid.aux) (Latex/DadsLasagna.aux) (Latex/RoastBeef.aux)
-(Latex/SalsaRice.aux) (Latex/PulledPork.aux) (Latex/TacoLasagne.aux)
-(Latex/TreebeardsEtouffee.aux) (Latex/TreebeardsShrimp.aux)
-(Latex/BreadButterPickles.aux) (Latex/CoconutRice.aux)
-(Latex/ParsnipPotatoes.aux) (Latex/RoastedBroccoli.aux)
+(Latex/HachisParmentier.aux) (Latex/SlowCookerParmRisotto.aux)
+(Latex/SweetChiliSalmon.aux) (Latex/DoubledThaiRedCurry.aux)
+(Latex/ButterChicken.aux) (Latex/WontonSoup.aux) (Latex/BeefStew.aux)
+(Latex/BisonBurger.aux) (Latex/ChickenBurger.aux) (Latex/ChickenBrocBraid.aux)
+(Latex/DadsLasagna.aux) (Latex/RoastBeef.aux) (Latex/SalsaRice.aux)
+(Latex/PulledPork.aux) (Latex/TacoLasagne.aux) (Latex/TreebeardsEtouffee.aux)
+(Latex/TreebeardsShrimp.aux) (Latex/BreadButterPickles.aux)
+(Latex/CoconutRice.aux) (Latex/ParsnipPotatoes.aux) (Latex/RoastedBroccoli.aux)
 (Latex/ShreddedChicken.aux) (Latex/Stuffing.aux)
 (Latex/SweetPotatoeCasserole.aux) (Latex/FeedingStarter.aux) (Latex/Levain.aux)
 (Latex/SanFranSourdough.aux) (Latex/SourdoughBananaBread.aux)
@@ -1184,14 +1185,14 @@ oup 6) loversize=0.15;
 \openout2 = `Latex/BlueberryMuffins.aux'.
 
  (Latex/BlueberryMuffins.tex
-Overfull \hbox (7.30704pt too wide) in paragraph at lines 53--53
+Overfull \hbox (7.30704pt too wide) in paragraph at lines 57--57
 [][] []    \T1/fjd/m/n/25 Star-bucks Copy-cat Blue-berry Muffins[] 
  []
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1199,7 +1200,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1207,7 +1208,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1218,7 +1219,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1236,11 +1237,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 1) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1248,7 +1249,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1256,7 +1257,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1267,7 +1268,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1285,11 +1286,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1297,7 +1298,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1305,7 +1306,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1316,7 +1317,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1334,11 +1335,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1346,7 +1347,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1354,7 +1355,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1365,7 +1366,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1383,11 +1384,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 4) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1395,7 +1396,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1403,7 +1404,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1414,7 +1415,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1432,11 +1433,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1444,7 +1445,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1452,7 +1453,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1463,7 +1464,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1481,11 +1482,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1493,7 +1494,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1501,7 +1502,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1512,7 +1513,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1530,11 +1531,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1542,7 +1543,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1550,7 +1551,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1561,7 +1562,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1579,11 +1580,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1591,7 +1592,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1599,7 +1600,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1610,7 +1611,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1628,11 +1629,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1640,7 +1641,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1648,7 +1649,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1659,7 +1660,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1677,11 +1678,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 10) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1689,7 +1690,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1697,7 +1698,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1708,7 +1709,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.53 \end{recipe}
+l.57 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -1726,7 +1727,7 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
-(lettrine.sty)             reported on input line 53.} 
+(lettrine.sty)             reported on input line 57.} 
 ) [6
 
 
@@ -1883,6 +1884,267 @@ er command,
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 44.} 
 ) [7
+
+
+
+]
+\openout2 = `Latex/MochaOvernightOats.aux'.
+
+ (Latex/MochaOvernightOats.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.32 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 1) loversize=0.15;
+(lettrine.sty)             reported on input line 32.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.32 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.32 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 2) loversize=0.15;
+(lettrine.sty)             reported on input line 32.} 
+) [8
+
+
+
+]
+\openout2 = `Latex/PumpkinOvernightOats.aux'.
+
+ (Latex/PumpkinOvernightOats.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.45 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 1) loversize=0.15;
+(lettrine.sty)             reported on input line 45.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.45 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 2) loversize=0.15;
+(lettrine.sty)             reported on input line 45.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.45 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.45 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 3) loversize=0.15;
+(lettrine.sty)             reported on input line 45.} 
+) [9
 
 
 
@@ -2184,7 +2446,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 46.} 
-) [8
+) [10
 
 
 
@@ -2486,7 +2748,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 46.} 
-) [9
+) [11
 
 
 
@@ -2886,11 +3148,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [10
+) [12
 
 
 
-] [11
+] [13
 
 
 ]
@@ -3195,7 +3457,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 50.} 
-) [12
+) [14
 
 ]
 \openout2 = `Latex/ItalianMeatSauce.aux'.
@@ -3299,7 +3561,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 39.} 
-) [13
+) [15
 
 
 
@@ -3405,7 +3667,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 31.} 
-) [14
+) [16
 
 
 
@@ -3952,7 +4214,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 46.} 
-) [15
+) [17
 
 
 
@@ -4303,7 +4565,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 44.} 
-) [16
+) [18
 
 
 
@@ -4574,11 +4836,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [17
+) [19
 
 
 
-] [18
+] [20
 
 
 ]
@@ -5026,7 +5288,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 62.} 
-) [19
+) [21
 
 ]
 \openout2 = `Latex/HachisParmentier.aux'.
@@ -5035,7 +5297,7 @@ oup 9) loversize=0.15;
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5043,7 +5305,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5051,7 +5313,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5062,7 +5324,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5080,11 +5342,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 1) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5092,7 +5354,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5100,7 +5362,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5111,7 +5373,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5129,11 +5391,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5141,7 +5403,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5149,7 +5411,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5160,7 +5422,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5178,11 +5440,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5190,7 +5452,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5198,7 +5460,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5209,7 +5471,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5227,11 +5489,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 4) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5239,7 +5501,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5247,7 +5509,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5258,7 +5520,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5276,11 +5538,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5288,7 +5550,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5296,7 +5558,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5307,7 +5569,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5325,11 +5587,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5337,7 +5599,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5345,7 +5607,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5356,7 +5618,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5374,11 +5636,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5386,7 +5648,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5394,7 +5656,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5405,7 +5667,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5423,11 +5685,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5435,7 +5697,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5443,7 +5705,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5454,7 +5716,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5472,11 +5734,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5484,7 +5746,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5492,7 +5754,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5503,7 +5765,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5521,11 +5783,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 10) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5533,7 +5795,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5541,7 +5803,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5552,7 +5814,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5570,8 +5832,8 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
-[20
+(lettrine.sty)             reported on input line 62.} 
+[22
 
 
 
@@ -5579,7 +5841,7 @@ oup 11) loversize=0.15;
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5587,7 +5849,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5595,7 +5857,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5606,7 +5868,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5624,11 +5886,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 12) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
+(lettrine.sty)             reported on input line 62.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5636,7 +5898,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5644,7 +5906,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -5655,7 +5917,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.61 \end{recipe}
+l.62 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -5673,8 +5935,261 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 13) loversize=0.15;
-(lettrine.sty)             reported on input line 61.} 
-) [21] [22
+(lettrine.sty)             reported on input line 62.} 
+) [23]
+\openout2 = `Latex/SlowCookerParmRisotto.aux'.
+
+ (Latex/SlowCookerParmRisotto.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.41 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 1) loversize=0.15;
+(lettrine.sty)             reported on input line 41.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.41 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 2) loversize=0.15;
+(lettrine.sty)             reported on input line 41.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.41 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 3) loversize=0.15;
+(lettrine.sty)             reported on input line 41.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.41 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 4) loversize=0.15;
+(lettrine.sty)             reported on input line 41.} 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.41 \end{recipe}
+                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway text?
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty) \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.41 \end{recipe}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package lettrine.sty Info: Targeted height = 19.3701pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.53404pt (\global \advance \c@st
+ep \@ne \begingroup \let \@elt \global \c@ \csname\endcsname \m@ne \csname\endc
+sname \relax \GenericError {               }{LaTeX Error: No counter '\' define
+d}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was i
+gnored.
+(lettrine.sty)             Type  I <command> <return>  to replace it with anoth
+er command,
+(lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
+oup 5) loversize=0.15;
+(lettrine.sty)             reported on input line 41.} 
+) [24
+
+
+
+] [25
 
 
 ]
@@ -6028,7 +6543,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [23
+) [26
 
 ]
 \openout2 = `Latex/DoubledThaiRedCurry.aux'.
@@ -6279,7 +6794,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [24
+) [27
 
 
 
@@ -6679,7 +7194,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 61.} 
-[25
+[28
 
 
 
@@ -6883,11 +7398,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 4) loversize=0.15;
 (lettrine.sty)             reported on input line 49.} 
-) [26
+) [29
 
 
 
-] [27
+] [30
 
 
 ]
@@ -7041,7 +7556,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [28
+) [31
 
 ]
 \openout2 = `Latex/BisonBurger.aux'.
@@ -7145,7 +7660,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 59.} 
-) [29
+) [32
 
 
 
@@ -7300,7 +7815,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 32.} 
-) [30
+) [33
 
 
 
@@ -7553,7 +8068,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [31
+) [34
 
 
 
@@ -7904,7 +8419,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 42.} 
-) [32
+) [35
 
 
 
@@ -8157,7 +8672,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 37.} 
-) [33
+) [36
 
 
 
@@ -8312,7 +8827,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 36.} 
-) [34
+) [37
 
 
 
@@ -8663,7 +9178,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [35
+) [38
 
 
 
@@ -9063,7 +9578,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 47.} 
-) [36
+) [39
 
 
 
@@ -9463,7 +9978,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 63.} 
-) [37
+) [40
 
 
 
@@ -9863,11 +10378,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 64.} 
-) [38
+) [41
 
 
 
-] [39
+] [42
 
 
 ]
@@ -10119,7 +10634,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 47.} 
-) [40
+) [43
 
 ]
 \openout2 = `Latex/CoconutRice.aux'.
@@ -10223,7 +10738,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 29.} 
-) [41
+) [44
 
 
 
@@ -10672,7 +11187,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 51.} 
-) [42
+) [45
 
 
 
@@ -11072,7 +11587,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 34.} 
-) [43
+) [46
 
 
 
@@ -11374,7 +11889,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [44
+) [47
 
 
 
@@ -11480,7 +11995,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 52.} 
-) [45
+) [48
 
 
 
@@ -11733,11 +12248,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 42.} 
-) [46
+) [49
 
 
 
-] [47
+] [50
 
 
 ]
@@ -11891,7 +12406,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 32.} 
-) [48
+) [51
 
 ]
 \openout2 = `Latex/Levain.aux'.
@@ -11995,7 +12510,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 46.} 
-) [49
+) [52
 
 
 
@@ -12546,7 +13061,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 37.} 
-) [50
+) [53
 
 
 
@@ -12995,7 +13510,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 46.} 
-) [51
+) [54
 
 
 
@@ -13548,7 +14063,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 48.} 
-) [52
+) [55
 
 
 
@@ -13899,7 +14414,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 43.} 
-) [53
+) [56
 
 
 
@@ -14495,7 +15010,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 12) loversize=0.15;
 (lettrine.sty)             reported on input line 39.} 
-) [54
+) [57
 
 
 
@@ -14993,7 +15508,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 10) loversize=0.15;
 (lettrine.sty)             reported on input line 52.} 
-) [55
+) [58
 
 
 
@@ -15344,7 +15859,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 50.} 
-) [56
+) [59
 
 
 
@@ -15597,11 +16112,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 55.} 
-) [57
+) [60
 
 
 
-] [58
+] [61
 
 
 ]
@@ -15706,7 +16221,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 35.} 
-) [59
+) [62
 
 ]
 \openout2 = `Latex/DumplingSauce.aux'.
@@ -15810,7 +16325,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 34.} 
-) [60
+) [63
 
 
 
@@ -15916,11 +16431,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 30.} 
-) [61
+) [64
 
 
 
-] [62
+] [65
 
 
 ]
@@ -16074,7 +16589,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [63
+) [66
 
 ]
 \openout2 = `Latex/ChocChipCookies.aux'.
@@ -16521,7 +17036,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 9) loversize=0.15;
 (lettrine.sty)             reported on input line 60.} 
-) [64
+) [67
 
 
 
@@ -16823,7 +17338,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 6) loversize=0.15;
 (lettrine.sty)             reported on input line 43.} 
-) [65
+) [68
 
 
 
@@ -17223,7 +17738,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 8) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [66
+) [69
 
 
 
@@ -17234,7 +17749,7 @@ oup 8) loversize=0.15;
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17242,7 +17757,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17250,7 +17765,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17261,7 +17776,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -17279,11 +17794,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 1) loversize=0.15;
-(lettrine.sty)             reported on input line 35.} 
+(lettrine.sty)             reported on input line 37.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17291,7 +17806,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17299,7 +17814,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17310,7 +17825,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -17328,11 +17843,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
-(lettrine.sty)             reported on input line 35.} 
+(lettrine.sty)             reported on input line 37.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17340,7 +17855,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17348,7 +17863,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17359,7 +17874,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -17377,11 +17892,11 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
-(lettrine.sty)             reported on input line 35.} 
+(lettrine.sty)             reported on input line 37.} 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17389,7 +17904,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17397,7 +17912,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname 
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -17408,7 +17923,7 @@ Package lettrine.sty Info: Targeted height = 19.3701pt
 ! Forbidden control sequence found while scanning text of \write.
 <inserted text> 
                 }
-l.35 \end{recipe}
+l.37 \end{recipe}
                  
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
@@ -17426,8 +17941,8 @@ gnored.
 er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 4) loversize=0.15;
-(lettrine.sty)             reported on input line 35.} 
-) [67
+(lettrine.sty)             reported on input line 37.} 
+) [70
 
 
 
@@ -17680,7 +18195,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 43.} 
-) [68
+) [71
 
 
 
@@ -18031,7 +18546,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 7) loversize=0.15;
 (lettrine.sty)             reported on input line 53.} 
-) [69
+) [72
 
 
 
@@ -18529,11 +19044,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 10) loversize=0.15;
 (lettrine.sty)             reported on input line 62.} 
-[70
+[73
 
 
 
-]) [71]
+]) [74]
 \openout2 = `Latex/SpritzCookies.aux'.
 
  (Latex/SpritzCookies.tex
@@ -18733,7 +19248,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 4) loversize=0.15;
 (lettrine.sty)             reported on input line 41.} 
-) [72
+) [75
 
 
 
@@ -19280,11 +19795,11 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 11) loversize=0.15;
 (lettrine.sty)             reported on input line 65.} 
-[73
+[76
 
 
 
-]) [74] [75
+]) [77] [78
 
 
 ]
@@ -19389,7 +19904,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 28.} 
-) [76
+) [79
 
 ]
 \openout2 = `Latex/BourbonManhattan.aux'.
@@ -19493,7 +20008,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 28.} 
-) [77
+) [80
 
 
 
@@ -19648,7 +20163,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 28.} 
-) [78
+) [81
 
 
 
@@ -19803,7 +20318,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 35.} 
-) [79
+) [82
 
 
 
@@ -19958,7 +20473,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 3) loversize=0.15;
 (lettrine.sty)             reported on input line 34.} 
-) [80
+) [83
 
 
 
@@ -20064,7 +20579,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 38.} 
-) [81
+) [84
 
 
 
@@ -20170,7 +20685,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 30.} 
-) [82
+) [85
 
 
 
@@ -20276,7 +20791,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 36.} 
-) [83
+) [86
 
 
 
@@ -20529,7 +21044,7 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 5) loversize=0.15;
 (lettrine.sty)             reported on input line 40.} 
-) [84
+) [87
 
 
 
@@ -20635,24 +21150,26 @@ er command,
 (lettrine.sty)             or  <return>  to continue without it.}cl@step \endgr
 oup 2) loversize=0.15;
 (lettrine.sty)             reported on input line 31.} 
-) [85
+) [88
 
 
 
 ] (00_MainFile.aux (Latex/BananaBreadBalls.aux)
 (Latex/BlueberryMuffins.aux) (Latex/ChocPBOvernightOats.aux)
+(Latex/MochaOvernightOats.aux) (Latex/PumpkinOvernightOats.aux)
 (Latex/CornbreadQuiche.aux) (Latex/RefrigeratorRolls.aux)
 (Latex/TexasKolaches.aux) (Latex/CreamyTomatoGarlicButterShrimp.aux)
 (Latex/ItalianMeatSauce.aux) (Latex/MarinaraSauce.aux)
 (Latex/PenneAllaVodka.aux) (Latex/PenneRosa.aux) (Latex/TuscanFresca.aux)
 (Latex/FrenchOnionSoup.aux) (Latex/HachisParmentier.aux)
-(Latex/SweetChiliSalmon.aux) (Latex/DoubledThaiRedCurry.aux)
-(Latex/ButterChicken.aux) (Latex/WontonSoup.aux) (Latex/BeefStew.aux)
-(Latex/BisonBurger.aux) (Latex/ChickenBurger.aux) (Latex/ChickenBrocBraid.aux)
-(Latex/DadsLasagna.aux) (Latex/RoastBeef.aux) (Latex/SalsaRice.aux)
-(Latex/PulledPork.aux) (Latex/TacoLasagne.aux) (Latex/TreebeardsEtouffee.aux)
-(Latex/TreebeardsShrimp.aux) (Latex/BreadButterPickles.aux)
-(Latex/CoconutRice.aux) (Latex/ParsnipPotatoes.aux) (Latex/RoastedBroccoli.aux)
+(Latex/SlowCookerParmRisotto.aux) (Latex/SweetChiliSalmon.aux)
+(Latex/DoubledThaiRedCurry.aux) (Latex/ButterChicken.aux) (Latex/WontonSoup.aux
+) (Latex/BeefStew.aux) (Latex/BisonBurger.aux) (Latex/ChickenBurger.aux)
+(Latex/ChickenBrocBraid.aux) (Latex/DadsLasagna.aux) (Latex/RoastBeef.aux)
+(Latex/SalsaRice.aux) (Latex/PulledPork.aux) (Latex/TacoLasagne.aux)
+(Latex/TreebeardsEtouffee.aux) (Latex/TreebeardsShrimp.aux)
+(Latex/BreadButterPickles.aux) (Latex/CoconutRice.aux)
+(Latex/ParsnipPotatoes.aux) (Latex/RoastedBroccoli.aux)
 (Latex/ShreddedChicken.aux) (Latex/Stuffing.aux)
 (Latex/SweetPotatoeCasserole.aux) (Latex/FeedingStarter.aux) (Latex/Levain.aux)
 (Latex/SanFranSourdough.aux) (Latex/SourdoughBananaBread.aux)
@@ -20668,13 +21185,13 @@ oup 2) loversize=0.15;
 (Latex/PBCupSmoothie.aux) (Latex/RedEyeMartini.aux) (Latex/Sangria.aux)
 (Latex/ThaiTea.aux) (Latex/TiramisuMartini.aux))
 Package rerunfilecheck Info: File `00_MainFile.out' has not changed.
-(rerunfilecheck)             Checksum: 012FF88435C25088F019323B68968FDA;5034.
+(rerunfilecheck)             Checksum: EB0D5F9684B8A14AF415851762DD2D52;5254.
  ) 
 Here is how much of TeX's memory you used:
- 20019 strings out of 479799
- 389479 string characters out of 2879558
- 699245 words of memory out of 3000000
- 35884 multiletter control sequences out of 15000+200000
+ 20058 strings out of 479799
+ 390807 string characters out of 2879558
+ 700582 words of memory out of 3000000
+ 35896 multiletter control sequences out of 15000+200000
  665997 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,21n,109p,554b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -20695,9 +21212,9 @@ public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/l
 m/lmsy8.pfb>
-Output written on 00_MainFile.pdf (85 pages, 486855 bytes).
+Output written on 00_MainFile.pdf (88 pages, 494222 bytes).
 PDF statistics:
- 880 PDF objects out of 1000 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
- 653 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 908 PDF objects out of 1000 (max. 8388607)
+ 173 named destinations out of 1000 (max. 500000)
+ 677 words of extra memory for PDF output out of 10000 (max. 10000000)
 

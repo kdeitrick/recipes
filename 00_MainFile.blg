@@ -7,6 +7,10 @@ Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/BlueberryMuffins.aux
 Reallocating 'name_of_file' (item size: 1) to 30 items.
 A level-1 auxiliary file: Latex/ChocPBOvernightOats.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Latex/MochaOvernightOats.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: Latex/PumpkinOvernightOats.aux
 Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Latex/CornbreadQuiche.aux
 Reallocating 'name_of_file' (item size: 1) to 28 items.
@@ -29,6 +33,8 @@ Reallocating 'name_of_file' (item size: 1) to 26 items.
 A level-1 auxiliary file: Latex/FrenchOnionSoup.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/HachisParmentier.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: Latex/SlowCookerParmRisotto.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/SweetChiliSalmon.aux
 Reallocating 'name_of_file' (item size: 1) to 30 items.
@@ -144,7 +150,7 @@ I found no \bibdata command---while reading file 00_MainFile.aux
 I found no \bibstyle command---while reading file 00_MainFile.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            152 strings with 2170 characters,
+            155 strings with 2259 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
