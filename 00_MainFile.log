@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.19)  31 JUL 2022 00:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.19)  27 DEC 2022 16:03
 entering extended mode
 **./00_MainFile.tex
 (00_MainFile.tex
@@ -22442,7 +22442,7 @@ Package rerunfilecheck Info: File `00_MainFile.out' has not changed.
 Here is how much of TeX's memory you used:
  20097 strings out of 479799
  392005 string characters out of 2879558
- 701920 words of memory out of 3000000
+ 701921 words of memory out of 3000000
  35908 multiletter control sequences out of 15000+200000
  665997 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -22464,7 +22464,7 @@ public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Program Files/MiKTeX
 /fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/l
 m/lmsy8.pfb>
-Output written on 00_MainFile.pdf (91 pages, 503637 bytes).
+Output written on 00_MainFile.pdf (91 pages, 503510 bytes).
 PDF statistics:
  937 PDF objects out of 1000 (max. 8388607)
  179 named destinations out of 1000 (max. 500000)
