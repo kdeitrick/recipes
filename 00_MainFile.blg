@@ -3,6 +3,8 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: 00_MainFile.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: Latex/BananaBreadBalls.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Latex/BelgianWaffles.aux
 Reallocating 'name_of_file' (item size: 1) to 31 items.
 A level-1 auxiliary file: Latex/FrenchToastCasserole.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
@@ -156,7 +158,7 @@ I found no \bibdata command---while reading file 00_MainFile.aux
 I found no \bibstyle command---while reading file 00_MainFile.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            158 strings with 2335 characters,
+            159 strings with 2359 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
