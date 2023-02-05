@@ -30,59 +30,61 @@
 \contentsline {section}{\numberline {5}Americana}{33}{section.5}%
 \contentsline {subsection}{\normalsize Old-Fashioned Beef Stew}{34}{section*.26}%
 \contentsline {subsection}{\normalsize Bison Burger}{35}{section*.27}%
-\contentsline {subsection}{\normalsize Chicken Burger}{36}{section*.28}%
-\contentsline {subsection}{\normalsize Chicken and Broccoli Braid}{37}{section*.29}%
-\contentsline {subsection}{\normalsize Dad's Lasagna}{38}{section*.30}%
-\contentsline {subsection}{\normalsize Roast Beef}{39}{section*.31}%
-\contentsline {subsection}{\normalsize Salsa Rice}{40}{section*.32}%
-\contentsline {subsection}{\normalsize Slow Cooker Coke Pulled Pork}{41}{section*.33}%
-\contentsline {subsection}{\normalsize Taco Fiesta Chicken Lasagna}{42}{section*.34}%
-\contentsline {subsection}{\normalsize Treebeards' Shrimp Etouffee}{43}{section*.35}%
-\contentsline {subsection}{\normalsize Treebeards' Shrimp}{44}{section*.36}%
-\contentsline {subsection}{\normalsize Treebeards' Shrimp Base}{44}{section*.37}%
-\contentsline {section}{\numberline {6}Sides}{45}{section.6}%
-\contentsline {subsection}{\normalsize Bread and Butter Pickles}{46}{section*.38}%
-\contentsline {subsection}{\normalsize Coconut Rice}{47}{section*.39}%
-\contentsline {subsection}{\normalsize Mashed Potatoes and Parsnips}{48}{section*.40}%
-\contentsline {subsection}{\normalsize Roasted Broccoli}{49}{section*.41}%
-\contentsline {subsection}{\normalsize Shredded Chicken Breast}{50}{section*.42}%
-\contentsline {subsection}{\normalsize Stuffing}{51}{section*.43}%
-\contentsline {subsection}{\normalsize Sweet Potato Casserole}{52}{section*.44}%
-\contentsline {section}{\numberline {7}Bread}{53}{section.7}%
-\contentsline {subsection}{\normalsize Feeding the Starter}{54}{section*.45}%
-\contentsline {subsection}{\normalsize Zingerman's Levain}{55}{section*.46}%
-\contentsline {subsection}{\normalsize Better Than San Francisco \\Sourdough Bread}{56}{section*.47}%
-\contentsline {subsection}{\normalsize Sourdough Banana Bread}{57}{section*.48}%
-\contentsline {subsection}{\normalsize Quick Banana Bread}{58}{section*.49}%
-\contentsline {subsection}{\normalsize Cinnamon Raisin Sourdough Bread}{59}{section*.50}%
-\contentsline {subsection}{\normalsize Double Chocolate Banana Bread}{60}{section*.51}%
-\contentsline {subsection}{\normalsize Farm Bread}{61}{section*.52}%
-\contentsline {subsection}{\normalsize Garlic Naan}{62}{section*.53}%
-\contentsline {subsection}{\normalsize Mom's Pumpkin Bread}{63}{section*.54}%
-\contentsline {subsection}{\normalsize Sourdough Waffles or Pancakes}{64}{section*.55}%
-\contentsline {section}{\numberline {8}Dressings and Sauces}{65}{section.8}%
-\contentsline {subsection}{\normalsize Caesar Pesto}{66}{section*.56}%
-\contentsline {subsection}{\normalsize Dumpling Sauce}{67}{section*.57}%
-\contentsline {subsection}{\normalsize Red Pepper Aioli}{68}{section*.58}%
-\contentsline {section}{\numberline {9}Desserts}{69}{section.9}%
-\contentsline {subsection}{\normalsize Apple Crisp}{70}{section*.59}%
-\contentsline {subsection}{\normalsize Chocolate Chip Cookies}{71}{section*.60}%
-\contentsline {subsection}{\normalsize All-Occasion Cutout Cookies}{72}{section*.61}%
-\contentsline {subsection}{\normalsize Huckleberry Buckle}{73}{section*.62}%
-\contentsline {subsection}{\normalsize King Arthur's Lava Cakes}{74}{section*.63}%
-\contentsline {subsection}{\normalsize Peanut Butter \& Chocolate Kisses}{75}{section*.64}%
-\contentsline {subsection}{\normalsize Peanut Butter Cookies}{76}{section*.65}%
-\contentsline {subsection}{\normalsize S'mores Hershey Kiss Cookies}{77}{section*.66}%
-\contentsline {subsection}{\normalsize Mrs.~Arnold's Spritz Cookies}{79}{section*.67}%
-\contentsline {subsection}{\normalsize Tiramisu}{80}{section*.68}%
-\contentsline {section}{\numberline {10}Beverages}{82}{section.10}%
-\contentsline {subsection}{\normalsize 1855 Champagne Cocktail}{83}{section*.69}%
-\contentsline {subsection}{\normalsize Bourbon Manhattan}{84}{section*.70}%
-\contentsline {subsection}{\normalsize Iced Green Jasmine Tea}{85}{section*.71}%
-\contentsline {subsection}{\normalsize Masala Chai}{86}{section*.72}%
-\contentsline {subsection}{\normalsize Mocha Frappuccino}{87}{section*.73}%
-\contentsline {subsection}{\normalsize Peanut Butter Cup Smoothie}{88}{section*.74}%
-\contentsline {subsection}{\normalsize Red Eye Martini}{89}{section*.75}%
-\contentsline {subsection}{\normalsize Sangria}{90}{section*.76}%
-\contentsline {subsection}{\normalsize Thai Tea}{91}{section*.77}%
-\contentsline {subsection}{\normalsize Tiramisu Martini}{92}{section*.78}%
+\contentsline {subsection}{\normalsize Black Bean Soup}{36}{section*.28}%
+\contentsline {subsection}{\normalsize Chicken Burger}{37}{section*.29}%
+\contentsline {subsection}{\normalsize Chicken and Broccoli Braid}{38}{section*.30}%
+\contentsline {subsection}{\normalsize Dad's Lasagna}{39}{section*.31}%
+\contentsline {subsection}{\normalsize Roast Beef}{40}{section*.32}%
+\contentsline {subsection}{\normalsize Salsa Rice}{41}{section*.33}%
+\contentsline {subsection}{\normalsize Slow Cooker Coke Pulled Pork}{42}{section*.34}%
+\contentsline {subsection}{\normalsize Taco Fiesta Chicken Lasagna}{43}{section*.35}%
+\contentsline {subsection}{\normalsize Treebeards' Shrimp Etouffee}{44}{section*.36}%
+\contentsline {subsection}{\normalsize Treebeards' Shrimp}{45}{section*.37}%
+\contentsline {subsection}{\normalsize Treebeards' Shrimp Base}{45}{section*.38}%
+\contentsline {section}{\numberline {6}Sides}{46}{section.6}%
+\contentsline {subsection}{\normalsize Bread and Butter Pickles}{47}{section*.39}%
+\contentsline {subsection}{\normalsize Coconut Rice}{48}{section*.40}%
+\contentsline {subsection}{\normalsize Mashed Potatoes and Parsnips}{49}{section*.41}%
+\contentsline {subsection}{\normalsize Roasted Broccoli}{50}{section*.42}%
+\contentsline {subsection}{\normalsize Shredded Chicken Breast}{51}{section*.43}%
+\contentsline {subsection}{\normalsize Stuffing}{52}{section*.44}%
+\contentsline {subsection}{\normalsize Sweet Potato Casserole}{53}{section*.45}%
+\contentsline {section}{\numberline {7}Bread}{54}{section.7}%
+\contentsline {subsection}{\normalsize Feeding the Starter}{55}{section*.46}%
+\contentsline {subsection}{\normalsize Zingerman's Levain}{56}{section*.47}%
+\contentsline {subsection}{\normalsize Better Than San Francisco \\Sourdough Bread}{57}{section*.48}%
+\contentsline {subsection}{\normalsize Sourdough Banana Bread}{58}{section*.49}%
+\contentsline {subsection}{\normalsize Quick Banana Bread}{59}{section*.50}%
+\contentsline {subsection}{\normalsize Cinnamon Raisin Sourdough Bread}{60}{section*.51}%
+\contentsline {subsection}{\normalsize Double Chocolate Banana Bread}{61}{section*.52}%
+\contentsline {subsection}{\normalsize Farm Bread}{62}{section*.53}%
+\contentsline {subsection}{\normalsize Garlic Naan}{63}{section*.54}%
+\contentsline {subsection}{\normalsize Mom's Pumpkin Bread}{64}{section*.55}%
+\contentsline {subsection}{\normalsize Sourdough Waffles or Pancakes}{65}{section*.56}%
+\contentsline {section}{\numberline {8}Dressings and Sauces}{66}{section.8}%
+\contentsline {subsection}{\normalsize Caesar Pesto}{67}{section*.57}%
+\contentsline {subsection}{\normalsize Dumpling Sauce}{68}{section*.58}%
+\contentsline {subsection}{\normalsize Red Pepper Aioli}{69}{section*.59}%
+\contentsline {section}{\numberline {9}Desserts}{70}{section.9}%
+\contentsline {subsection}{\normalsize Apple Crisp}{71}{section*.60}%
+\contentsline {subsection}{\normalsize Chocolate Chip Cookies}{72}{section*.61}%
+\contentsline {subsection}{\normalsize All-Occasion Cutout Cookies}{73}{section*.62}%
+\contentsline {subsection}{\normalsize Huckleberry Buckle}{74}{section*.63}%
+\contentsline {subsection}{\normalsize King Arthur's Lava Cakes}{75}{section*.64}%
+\contentsline {subsection}{\normalsize Peanut Butter \& Chocolate Kisses}{76}{section*.65}%
+\contentsline {subsection}{\normalsize Peanut Butter Cookies}{77}{section*.66}%
+\contentsline {subsection}{\normalsize Crustless Pumpkin Pie}{78}{section*.67}%
+\contentsline {subsection}{\normalsize S'mores Hershey Kiss Cookies}{79}{section*.68}%
+\contentsline {subsection}{\normalsize Mrs.~Arnold's Spritz Cookies}{81}{section*.69}%
+\contentsline {subsection}{\normalsize Tiramisu}{82}{section*.70}%
+\contentsline {section}{\numberline {10}Beverages}{84}{section.10}%
+\contentsline {subsection}{\normalsize 1855 Champagne Cocktail}{85}{section*.71}%
+\contentsline {subsection}{\normalsize Bourbon Manhattan}{86}{section*.72}%
+\contentsline {subsection}{\normalsize Iced Green Jasmine Tea}{87}{section*.73}%
+\contentsline {subsection}{\normalsize Masala Chai}{88}{section*.74}%
+\contentsline {subsection}{\normalsize Mocha Frappuccino}{89}{section*.75}%
+\contentsline {subsection}{\normalsize Peanut Butter Cup Smoothie}{90}{section*.76}%
+\contentsline {subsection}{\normalsize Red Eye Martini}{91}{section*.77}%
+\contentsline {subsection}{\normalsize Sangria}{92}{section*.78}%
+\contentsline {subsection}{\normalsize Thai Tea}{93}{section*.79}%
+\contentsline {subsection}{\normalsize Tiramisu Martini}{94}{section*.80}%
