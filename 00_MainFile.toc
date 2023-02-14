@@ -25,7 +25,7 @@
 \contentsline {section}{\numberline {4}Asian}{28}{section.4}%
 \contentsline {subsection}{\normalsize Broiled Salmon with \\Thai Sweet Chili Glaze}{29}{section*.22}%
 \contentsline {subsection}{\normalsize Thai Red Curry}{30}{section*.23}%
-\contentsline {subsection}{\normalsize Butter Chicken}{31}{section*.24}%
+\contentsline {subsection}{\normalsize Butter Chicken Sauce}{31}{section*.24}%
 \contentsline {subsection}{\normalsize Wonton Soup}{32}{section*.25}%
 \contentsline {section}{\numberline {5}Americana}{33}{section.5}%
 \contentsline {subsection}{\normalsize Old-Fashioned Beef Stew}{34}{section*.26}%
